@@ -220,7 +220,10 @@ The Layout component receives props and passes them to the OriginalLayout compon
 
 Inside the OriginalLayout component, we render props.children, which represents the main content of each page, a FeedbackForm for collecting user feedback, and a ToastContainer for displaying notifications.
 
-By wrapping our page content with this Layout component, we ensure that each page in our application includes a feedback form and a container for notifications
+By wrapping our page content with this Layout component, we ensure that each page in our application includes a feedback form and a container for notifications.
+
+
+Note: https://answers.netlify.com/t/netlify-forms-not-being-detected/55397/3 Took suggestions from this post to create this doc
 
 ## Conclusion
 
