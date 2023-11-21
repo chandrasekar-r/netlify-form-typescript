@@ -2,7 +2,7 @@
 
 ---
 
-This guide will walk you through the process of setting up a Netlify form in a TypeScript project. We'll be using a feedback form as an example.
+This guide will walk you through the process of setting up a Netlify form in a TypeScript project escpecially if you are working with static site generators like Docusaurus. We'll be using a feedback form as an example.
 
 ## Project Structure
 
